@@ -1,3 +1,1 @@
 # testRepo
-SDC
-G

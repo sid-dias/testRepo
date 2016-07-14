@@ -1,6 +1,6 @@
 {
   "errors" : [ {
-    "status" : 404,
-    "message" : "File not found."
+    "status" : 401,
+    "message" : "Authentication is required"
   } ]
 }
